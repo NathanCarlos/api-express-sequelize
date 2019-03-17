@@ -1,8 +1,8 @@
 # api-express-sequelize
-Api utilizando express e sequelize de uma forma mais simples.
+Api using express and sequelize in a simpler way.
 
-* Para inicializar a api siga as instruções abaixo.
-* Entre no diretório que clonou o repositório e digite npm install.
-* Provavelmente ele na hora de rodar o npm start ele irá pedir que instale manualmente o mysql2, então rode o comando npm install mysql2.
-* Tenha o mysql instalado, você pode editar as configurações para acessar o banco de dados no sequelize que se encontra em services.
-* Você pode ver mais como funciona as configurações do sequelize e relações entre entidades no link: http://docs.sequelizejs.com/manual/installation/getting-started.html
+* To initialize the api follow the instructions below.
+* Enter the directory that cloned the repository and enter npm install.
+* Probably it's time to run npm start it will ask you to manually install mysql2, then run the npm install mysql2 command.
+* Have mysql installed, you can edit the settings to access the database in the sequelize that is in services.
+* You can see more how the sequelize settings and entity relationships on the link works: http://docs.sequelizejs.com/manual/installation/getting-started.html
